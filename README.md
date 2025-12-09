@@ -13,6 +13,6 @@ Classification ML de cas de dépression chez les étudiants à partir de donnée
 ---
 
 ## Contact
-- Email : emma.benhaim@gmail.com  
+- emma.benhaim@gmail.com  
 - [LinkedIn](https://www.linkedin.com/in/emmanuelle-benhaim-6b1177166/)
 
